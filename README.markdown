@@ -10,6 +10,6 @@ An end-to-end ML project on content based movie recommender system.
 
 
 ## Demo
+![movie-recommender](https://user-images.githubusercontent.com/55681180/146150305-1dfae7d3-f66a-4139-be1d-cde96c724e69.gif)
 
-https://drive.google.com/file/d/1NMnshs-gHMo9a6n2SGgFd9b6UcR1gMBD/view?usp=sharing 
 
