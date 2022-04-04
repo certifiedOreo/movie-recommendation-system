@@ -2,8 +2,8 @@
 # Movie-Recommendation-System
 
 An end-to-end ML project on content based movie recommender system.
-## Authors
-- [@certifiedOreo](https://github.com/certifiedOreo)
+<!-- ## Authors
+- [@certifiedOreo](https://github.com/certifiedOreo) -->
 
 
 
